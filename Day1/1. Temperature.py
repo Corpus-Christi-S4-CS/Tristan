@@ -1,3 +1,5 @@
+# Tells you if temperature entered is hot / cold etc...
+
 temp = float(input("Please enter the temperature: "))
 
 if temp >= 24.0:
